@@ -1,0 +1,39 @@
+.container{
+    width: 100%;
+    min-height: 100vh;
+    background: rgb(81, 80, 80);
+    color: #ffffff;
+    padding-top: 2%;
+    padding-left: 4%;
+}
+
+.btn{
+    cursor: pointer;
+}
+
+.pageTitle{
+    font-family: 'Open Sans';
+    cursor: context-menu;
+}
+
+.input-box{
+    position: relative;
+    width: 100%;
+    max-width: 500px;
+    min-height: 150px;
+    background: #ffffff;
+    color: #333;
+    padding: 20px;
+    margin: 20px 0;
+    outline: none;
+    border-radius: 5px;
+}
+
+.input-box img{
+    width: 25px;
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+    cursor: pointer;
+}
+
